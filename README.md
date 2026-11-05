@@ -62,3 +62,8 @@
 1. 這是工程架構，不是商業答案；按讚不等於付費。
 2. 可借的是「控管／監控／人要點頭」的原則，以及把自己的系統畫出來當作品。
 3. 先確定主線再決定要不要碰企業級架構。
+
+## 合併紀錄
+同一主題原本有三份紀錄，已合併到這裡，原 repo 刪除：
+- `merged/suntzu-version.md`：原 council-multi-agent-notes（含待決的主線句型）
+- `merged/hegel-version.md`：原 multi-agent-architecture-notes
